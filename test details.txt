@@ -1,0 +1,9 @@
+Test secret key : sk_test_6gqu1Qy8sCkrciul7IpGmlDe
+Test Publishable key :pk_test_oYBQKTDMuLn6yQtf2ZGxwWun
+
+Live secret key : sk_live_hCYYHoEiKWYNXmE0lLbPth6p
+Live Publishable key :pk_live_RFYZGwk8kUUxBbTftBtnC1BH 
+
+
+login : anishrp09@gmail.com
+pass: Anish123@
